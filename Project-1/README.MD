@@ -51,7 +51,7 @@ Our approach combined **linguistic analysis**, **feature engineering**, and **se
 ---
 
 ## 📂 Deliverables
-- [📑 Plutus Yelp Presentation (PDF)](Plutus%20Yelp%20Presentation%20(1).pdf)
+- [📑 Plutus Yelp Presentation (PDF)](Plutus%20Yelp%20Presentation.pdf)
 
 ---
 
