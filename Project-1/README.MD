@@ -3,7 +3,7 @@
 ## 🚀 Overview
 This project explored the **factors that make Yelp reviews most useful** to businesses, consumers, and the platform itself. By analyzing 83,000+ reviews with text, sentiment, and structural features, we identified patterns that drive engagement, inform business strategy, and enhance review ranking algorithms.
 
-👉 [View the Full Presentation (PDF)](Plutus%20Yelp%20Presentation%20.pdf)
+👉 [View the Full Presentation (PDF)](Plutus%20Yelp%20Presentation.pdf)
 
 ---
 
