@@ -24,4 +24,5 @@ Each folder includes the project’s presentation and supporting materials.
 
 ## 🔹 Misc. Papers
 - [Rising Global Food Insecurity - Proposal for a Paradigm Shift in Eradication Methodologies](https://github.com/abdxxll/Project-Portfolio/blob/main/Misc.%20Papers/Rising%20Global%20Food%20Insecurity.pdf)
-- [Applied Regression Analysis - Parsimonious Linear Regression](https://github.com/abdxxll/Project-Portfolio/blob/main/Misc.%20Papers/Applied%20Regression%20Analysis.pdf) 
+- [Applied Regression Analysis - Parsimonious Linear Regression](https://github.com/abdxxll/Project-Portfolio/blob/main/Misc.%20Papers/Applied%20Regression%20Analysis.pdf)
+- [Poverty and Decision-Making: Applying Scarcity Theory to Multi-Generational Traps](https://github.com/abdxxll/Project-Portfolio/blob/main/Misc.%20Papers/Poverty%20and%20Decision-Making%20-%20Applying%20Scarcity%20Theory%20to%20Multi-Generational%20Traps.pdf)
