@@ -19,6 +19,6 @@ Each folder includes the project’s presentation and supporting materials.
   
 - [Project 1: NLP for Yelp Recommendations](Project1_NLP%20Insights/README.MD)  
 - [Project 2: Retail Customer Segmentation with CRM](Project2_CRM%20with%20Customer%20Clustering/README.MD)
-
+- [Project 3: Uber's Disruptive Innovation and Future Challenges](https://github.com/abdxxll/Project-Portfolio/blob/main/Project3_Uber's%20Business%20Strategy/README.MD)
 ## 🔹 Misc. Papers
 - [Rising Global Food Insecurity - Proposal for a Paradigm Shift in Eradication Methodologies](https://github.com/abdxxll/Project-Portfolio/blob/main/Misc.%20Papers/Rising%20Global%20Food%20Insecurity.pdf)
