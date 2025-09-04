@@ -24,3 +24,4 @@ Each folder includes the project’s presentation and supporting materials.
 
 ## 🔹 Misc. Papers
 - [Rising Global Food Insecurity - Proposal for a Paradigm Shift in Eradication Methodologies](https://github.com/abdxxll/Project-Portfolio/blob/main/Misc.%20Papers/Rising%20Global%20Food%20Insecurity.pdf)
+- [Applied Regression Analysis - Parsimonious Linear Regression](https://github.com/abdxxll/Project-Portfolio/blob/main/Misc.%20Papers/Applied%20Regression%20Analysis.pdf) 
