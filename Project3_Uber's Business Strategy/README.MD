@@ -4,6 +4,9 @@
 
 The rise of Uber disrupted the traditional taxi industry, reshaping how people access transportation and how labor is organized in the gig economy. This project explores **how Uber leveraged a multi-sided platform strategy**, disrupted entrenched systems like taxi medallions, diversified into adjacent services, and faces ongoing challenges around regulation, profitability, and technological innovation.
 
+👉 [View the Full Presentation (PDF)](https://github.com/abdxxll/Project-Portfolio/blob/main/Project3_Uber's%20Business%20Strategy/uber.pptx.pdf)
+
+
 ## 🛠 Methodology
 
 Our team conducted a structured strategic analysis combining:
