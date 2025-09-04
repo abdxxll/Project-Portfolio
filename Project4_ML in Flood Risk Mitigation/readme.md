@@ -4,6 +4,8 @@
 
 Flooding is one of the most devastating natural disasters, currently threatening **1.47 billion people worldwide**, with particularly severe impacts in low- and middle-income countries where resilience infrastructure is limited. This project explores how **machine learning models can enhance flood risk prediction and mitigation**, enabling governments and emergency response agencies to protect communities, allocate resources efficiently, and reduce economic losses.
 
+👉 [View the Full Presentation (PDF)](https://github.com/abdxxll/Project-Portfolio/blob/main/Project4_ML%20in%20Flood%20Risk%20Mitigation/Machine%20Learning%20in%20Flood%20Risk%20Mitigation.pdf)
+
 ## 🛠 Methodology
 
 Our team applied a structured data science and machine learning pipeline:
